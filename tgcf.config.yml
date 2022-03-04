@@ -20,6 +20,8 @@ forwards:
   #   dest: []
   #   offset: 0
   # add more sources if you wish
+ 
+show_forwarded_from: false
 
 past:
   delay: 1 # wait for 3s after forwarding each message
